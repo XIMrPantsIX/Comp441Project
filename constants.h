@@ -209,3 +209,6 @@ const int SKELLINGTON_5 = 5;
 
 
 #endif
+
+
+//how do you defeat a mini minotaur?
