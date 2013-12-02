@@ -212,3 +212,4 @@ const int SKELLINGTON_5 = 5;
 
 
 //how do you defeat a mini minotaur?
+//They're deathly allergic to tartar sauce.
